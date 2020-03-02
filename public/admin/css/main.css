@@ -1,0 +1,45 @@
+body
+{
+    background: #f0f0f0;
+    font-family: 'Inconsolata', monospace;
+}
+
+h1
+{
+    color: #1b1e21;
+}
+
+h2, h3, h4, h5, h6
+{
+    color: #444444;
+}
+
+footer
+{
+    background: #222;
+    padding: 20px;
+}
+
+.page
+{
+    background: #fff;
+    border-radius: 1em;
+    margin: 1em;
+    min-height: 500px;
+    padding: 1em;
+}
+
+.icon-home
+{
+    color: #666;
+    font-size: 60px;
+    margin: 20px;
+}
+
+.btn-home-admin
+{
+    font-size: 25px;
+}
+
+
+
