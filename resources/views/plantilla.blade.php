@@ -17,7 +17,7 @@
 
 
 
-    <title> Farmacia Herrera</title>
+    <title> Farmacia Herrera | Historia | Promociones | Venta Medicamentos </title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ asset('images/favicon/favicon.ico') }}">

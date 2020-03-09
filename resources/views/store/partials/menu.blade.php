@@ -11,13 +11,13 @@
     <!-- SEO -->
     <meta name="description" content="150 words">
     <meta name="author" content="victor">
-    <meta name="url" content="http://www.farmaciaherrera.com">
+    <meta name="url" content="https://www.farmaciaherrera.com">
     <meta name="copyright" content="herrera">
     <meta name="robots" content="index,follow">
 
 
 
-    <title> Farmacia Herrera</title>
+    <title> Farmacia Herrera | Tienda </title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ asset('images/favicon/favicon.ico') }}">

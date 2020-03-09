@@ -20,7 +20,7 @@
 @else
     <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-            <i class="fa fa-user"></i> <span class="caret"></span>
+            <i class="fa fa-user" style="font-size: 24px"></i> <span class="caret"></span>
         </a>
         <ul class="dropdown-menu" role="menu">
             <li><a href="{{ route('login-get') }}">Iniciar sesión</a></li>

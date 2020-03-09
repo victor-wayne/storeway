@@ -12,20 +12,20 @@
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="{{ route('store') }}">Compra en Linea <span class="sr-only">(current)</span></a></li>
+                <li class="active"><a href="{{ route('store') }}"><h5>Compra en Linea</h5> <span class="sr-only">(current)</span></a></li>
 
 
             </ul>
 
             <ul class="nav navbar-nav navbar-right">
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ route('cart-show') }}"><i class="fa fa-shopping-cart"></i></a>
+                    <a class="nav-link" href="{{ route('cart-show') }}"><i class="fa fa-shopping-cart" style="font-size: 24px"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Conocenos</a>
+                    <a class="nav-link" href="#"><h4>Promociones Circulo de la Salud</h4></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contactanos</a>
+                    <a class="nav-link" href="#"><h4>Promociones Enlace Vital</h4></a>
                 </li>
 
                 @include('store.partials.menu-user')

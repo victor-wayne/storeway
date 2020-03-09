@@ -2,6 +2,16 @@
 
 @section('content')
 
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
     <div class="container text-center">
         <div class="page-header">
             <h1><i class="fa fa-user"></i> Iniciar sesión</h1>
@@ -78,4 +88,37 @@
             </div>
         </div>
     </div><hr>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+
 @endsection

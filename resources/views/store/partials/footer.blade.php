@@ -1,12 +1,9 @@
 <footer class="container-fluid">
     <div class="row">
         <div class="col-md-4">
-            <h3 style="color: #533f03"> Herrera`s Store</h3>
-            <p style="color: #e9ecef" align="justify">En esta pagina encontraras todo lo necesario para surtir tu receta a los mejores precios de celaya
-            y la region, ademas de gran variedad en productos dermatologicos, genericos y de patente.
+            <a href="#"><h3 style="color: #533f03"> Terminos y Condiciones</h3></a>
+            <a href="#"><h3 style="color: #533f03"> Terminos y Condiciones Envios Foraneos</h3></a>
 
-
-            </p>
         </div>
 
         <div class="col-md-4">
