@@ -78,9 +78,9 @@
 </header>
 
 @yield ('aliadoscomerciales')
-<br>
-<section id="about" class="about-section">
 
+<section id="about" class="about-section">
+    <br>
     <div class="section-title">
         <h2 align="center"><i class="fa fa-handshake-o" style="font-size:24px"> <strong>Aliados Comerciales</strong></i></h2>
 
@@ -89,100 +89,117 @@
     <div class="row">
         <div class="col-md-6">
             <div class="info-block">
-                <h2 align="center"><strong>Region Salud</strong></h2>
-                <iframe width="330" height="280" src="https://www.youtube.com/embed/bvbZTdOAoeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <h2 align="center"><strong>Región Salud</strong></h2>
+                <iframe width="330" height="280" src="https://www.youtube.com/embed/ezZno68VQM8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
             </div>
         </div>
 
         <div class="col-md-6">
             <div class="about-me section-space-padding">
-                <h2 align="center">Region Salud</h2>
+                <h2 align="center">Región Salud</h2>
                 <p align="justify">
-                    Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-                    Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un
-                    impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los
-                    mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
+                    <strong>Región Salud</strong> es una empresa que busca fomentar la salud mediante la promoción de la misma.
+                    Entra a nuestras redes sociales y encontraras entrevistas con médicos de la región,
+                    tips de salud e información de interés llevada a ti de la forma más simple posible.
+                    Disfruta de nuestro contenido en Facebook, YouTube, e Instragam<br>
+
+                    <span class="fa fa-laptop" style="font-size:20px"></span><strong> </strong>
+                    <a href="http://regionsalud.com.mx/">http://regionsalud.com.mx/</a>
                 </p>
             </div>
         </div>
     </div>
-
-    <hr>
 
     <div class="row">
-        <div class="col-md-6">
-            <div class="info-block">
-                <h2 align="center"><strong>Region Salud</strong></h2>
-                <iframe width="330" height="280" src="https://www.youtube.com/embed/bvbZTdOAoeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <div class="col-md-6 col-sm-12 col-xs-12">
 
-            </div>
+            <h2 align="center"><strong>Circulo de la Salud</strong></h2>
+            <img class="img-responsive" src="{{ asset('images/bg/circulo-salud.jpg') }}" draggable="false" alt="circulo-de-la-salud-farmacia-herrera">
+
+
         </div>
 
         <div class="col-md-6">
             <div class="about-me section-space-padding">
-                <h2 align="center">Region Salud</h2>
+                <h2 align="center">Circulo de la Salud</h2>
                 <p align="justify">
-                    Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-                    Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un
-                    impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los
-                    mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-                </p>
+                    Círculo de la Salud Oro es el programa nacional de beneficios con la
+                    única multitarjeta, que ayuda a los pacientes a cumplir con el tratamiento
+                    prescrito por el médico; recibiendo beneficios diferenciados disponibles en
+                    las farmacias afiliadas en todo el país.<br>
+
+                    <span class="fa fa-laptop" style="font-size:20px"></span><strong> </strong>
+                    <a href="https://www.circulodelasalud.mx/">https://www.circulodelasalud.mx/</a>
+
             </div>
         </div>
     </div>
-
-    <hr>
 
     <div class="row">
-        <div class="col-md-6">
-            <div class="info-block">
-                <h2 align="center"><strong>Region Salud</strong></h2>
-                <iframe width="330" height="280" src="https://www.youtube.com/embed/bvbZTdOAoeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <div class="col-md-6 col-sm-12 col-xs-12">
 
-            </div>
+            <h2 align="center"><strong>Enlace Vital</strong></h2>
+            <img class="img-responsive" src="{{ asset('images/bg/enlace-Vital2.png') }}" draggable="false" alt="enlace-vital-farmacia-herrera">
+
+
         </div>
 
         <div class="col-md-6">
             <div class="about-me section-space-padding">
-                <h2 align="center">Region Salud</h2>
+                <h2 align="center">Enlace vital</h2>
                 <p align="justify">
-                    Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-                    Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un
-                    impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los
-                    mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-                </p>
+                    Programa de apego que brinda apoyo a tu salud y la de tu familia con
+                    grandes beneficios por tus compras recurrentes en la red de farmacias
+                    más grande a nivel Nacional.<br>
+
+                    <span class="fa fa-laptop" style="font-size:20px"></span><strong> </strong>
+                    <a href="https://enlacevital.com.mx/">https://enlacevital.com.mx/</a>
+
             </div>
         </div>
     </div>
 
-    <hr>
 
     <div class="row">
-        <div class="col-md-6">
-            <div class="info-block">
-                <h2 align="center"><strong>Region Salud</strong></h2>
-                <iframe width="330" height="280" src="https://www.youtube.com/embed/bvbZTdOAoeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <div class="col-md-6 col-sm-12 col-xs-12">
 
-            </div>
+            <h2 align="center"><strong>E3MULTISPORT</strong></h2>
+            <img class="img-responsive" src="{{ asset('images/bg/e3multisport.jpg') }}" draggable="false" alt="e3multispot-farmacia-herrera">
+
+
         </div>
 
         <div class="col-md-6">
             <div class="about-me section-space-padding">
-                <h2 align="center">Region Salud</h2>
+                <h2 align="center">E·MULTISPORT</h2>
                 <p align="justify">
-                    Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-                    Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un
-                    impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los
-                    mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-                </p>
+                    Equipo especializado en:<br>
+
+                    Triatlón<br>
+                    Ciclismo<br>
+                    Carrera<br>
+
+
+                    Todos los niveles<br>
+                    Coach: @edermejia<br>
+
+                    <a href="https://www.facebook.com/pg/E3MULTISPORTTRI/about/?ref=page_internal" ><i class="fa fa-facebook-square" style="font-size:36px"></i></a>
             </div>
         </div>
     </div>
 
-    <hr>
+
+
+
+
+
+
+
+
 </section>
 
+<hr>
 
 <!-- Footer Start -->
 <footer class="footer-section">

@@ -79,9 +79,9 @@
 
 
 @yield ('apoyodeporte')
-<hr>
-<section id="about" class="about-section">
 
+<section id="about" class="about-section">
+<br>
     <div class="section-title">
         <h2 align="center"><i class="fa fa-life-ring" style="font-size:24px"> <strong>Apoyo al Deporte</strong></i></h2>
 
@@ -89,102 +89,62 @@
 
 
     <div class="row">
-        <div class="col-md-6">
-            <div class="deporte-block">
-                <h2 align="center"><strong>Region Salud</strong></h2>
-                <iframe width="330" height="280" src="https://www.youtube.com/embed/bvbZTdOAoeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <div class="col-md-6 col-sm-12 col-xs-12">
 
-            </div>
+                <h2 align="center"><strong>Duaclón Celaya</strong></h2>
+                <img class="img-responsive" src="{{ asset('images/bg/duaclon.jpg') }}" draggable="false" alt="apoyo-al-deporte-farmacia-herrera">
+
+
         </div>
 
         <div class="col-md-6">
           <div class="about-me section-space-padding">
-              <h2 align="center">Region Salud</h2>
+              <h2 align="center">Duaclón Celaya 2020</h2>
               <p align="justify">
-              Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-              Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un
-              impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los
-              mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-              </p>
+                  Este es uno de los mejores eventos de Duatlón por qué es muy rápido,
+                  la bici se realiza en una de las mejores avenidas de Celaya y el
+                  recorrido en la carrera es dentro del parque lineal de Celaya ven y compruébalo.<br>
+
+                  <a href="https://www.facebook.com/pg/duatloncelaya/about/?ref=page_internal" ><i class="fa fa-facebook-square" style="font-size:36px"></i></a>
             </div>
         </div>
     </div>
 
-    <hr>
 
     <div class="row">
-        <div class="col-md-6">
-            <div class="deporte-block">
-                <h2 align="center"><strong>Region Salud</strong></h2>
-                <iframe width="330" height="280" src="https://www.youtube.com/embed/bvbZTdOAoeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <div class="col-md-6 col-sm-12 col-xs-12">
 
-            </div>
+            <h2 align="center"><strong>MMT Celaya 2020</strong></h2>
+            <img class="img-responsive" src="{{ asset('images/bg/mmt.jpg') }}" draggable="false" alt="apoyo-al-deporte-farmacia-herrera">
+
+
         </div>
 
         <div class="col-md-6">
             <div class="about-me section-space-padding">
-                <h2 align="center">Region Salud</h2>
+                <h2 align="center">MMT 2020</h2>
                 <p align="justify">
-                    Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-                    Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un
-                    impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los
-                    mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-                </p>
+                    ¡ESTAMOS LISTOS!
+                    No te puedes perder todas las sorpresas que tenemos para ti.
+                    Acompáñanos a festejar los 25 años de MMT.¡ESTAMOS LISTOS!
+                    No te puedes perder todas las sorpresas que tenemos para ti.
+                    Acompáñanos a festejar los 25 años de MMT..<br>
+
+                    <a href="https://www.facebook.com/Medio-Marat%C3%B3n-Rinc%C3%B3n-de-Tamayo-2020-XXV-Aniversario-1677049765901696/?epa=SEARCH_BOX" ><i class="fa fa-facebook-square" style="font-size:36px"></i></a>
             </div>
         </div>
     </div>
 
-    <hr>
 
-    <div class="row">
-        <div class="col-md-6">
-            <div class="deporte-block">
-                <h2 align="center"><strong>Region Salud</strong></h2>
-                <iframe width="330" height="280" src="https://www.youtube.com/embed/bvbZTdOAoeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-            </div>
-        </div>
 
-        <div class="col-md-6">
-            <div class="about-me section-space-padding">
-                <h2 align="center">Region Salud</h2>
-                <p align="justify">
-                    Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-                    Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un
-                    impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los
-                    mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-                </p>
-            </div>
-        </div>
-    </div>
 
-    <hr>
 
-    <div class="row">
-        <div class="col-md-6">
-            <div class="deporte-block">
-                <h2 align="center"><strong>Region Salud</strong></h2>
-                <iframe width="330" height="280" src="https://www.youtube.com/embed/bvbZTdOAoeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-            </div>
-        </div>
-
-        <div class="col-md-6">
-            <div class="about-me section-space-padding">
-                <h2 align="center">Region Salud</h2>
-                <p align="justify">
-                    Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-                    Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un
-                    impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los
-                    mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-                </p>
-            </div>
-        </div>
-    </div>
-
-    <hr>
 
 </section>
+
+<hr>
+
 
 
 <!-- Footer Start -->
@@ -217,6 +177,8 @@
     </div>
 </footer>
 <!-- Footer End -->
+
+
 
 
 
