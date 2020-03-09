@@ -161,6 +161,26 @@ Route::get('/vichy', [
     'uses' => 'DermatologiaController@vichy'
 ]);
 
+Route::get('/isdin', [
+    'as' =>'productos-isdin',
+    'uses' => 'DermatologiaController@isdin'
+]);
+
+Route::get('/patente', [
+    'as' =>'productos-patente',
+    'uses' => 'DermatologiaController@patente'
+]);
+
+Route::get('/genericos', [
+    'as' =>'productos-genericos',
+    'uses' => 'DermatologiaController@genericos'
+]);
+
+Route::get('/otc', [
+    'as' =>'productos-otc',
+    'uses' => 'DermatologiaController@otc'
+]);
+
 // CREACION DE RUTAS PARA LAS KEYWORDS O SECCIONES
 
 Route::get('/la-historia-de-farmacia-herrera', [

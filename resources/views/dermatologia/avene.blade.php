@@ -17,8 +17,13 @@
                 <li><a href="{{ route('productos-avene') }}">Avene</a></li>
                 <li><a href="{{ route('productos-laroche') }}">La Roche-Posay</a></li>
                 <li><a href="{{ route('productos-vichy') }}">Vichy</a></li>
+                <li><a href="{{ route('productos-isdin') }}">Isdin</a></li>
                 <li class="dropdown-header">Patente</li>
-                <li><a href="{{ route('store') }}">Todos</a></li>
+                <li><a href="{{ route('productos-patente') }}">Todos</a></li>
+                <li class="dropdown-header">Generico</li>
+                <li><a href="{{ route('productos-genericos') }}">Todos</a></li>
+                <li class="dropdown-header">OTC</li>
+                <li><a href="{{ route('productos-otc') }}">Todos</a></li>
             </ul>
         </div>
     </div>

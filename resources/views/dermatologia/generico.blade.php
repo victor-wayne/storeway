@@ -5,6 +5,7 @@
     @include('store.partials.slider')
 
 
+
     <div class="container">
         <h1 align="center">¿Buscas algun Producto?</h1>
         <h4 align="center">Utiliza nuestro boton categorizador para una mejor busqueda</h4>
@@ -29,7 +30,7 @@
 
     <hr>
 
-    <h1 align="center"> LA ROCHE-POSAY</h1>
+    <h1 align="center">Genericos</h1>
 
     <div class="container text-center">
 
@@ -39,7 +40,7 @@
             @foreach($products as $product)
                 <div class="white-panel">
                     <h3>{{ $product->name }}</h3><hr>
-                    <img src="{{ asset('products/dermatologia/laroche/'.$product->image) }}" width="200">
+                    <img src="{{ asset('products/dermatologia/genericos/'.$product->image) }}" width="200">
                     <div class="product-info panel">
                         <p>{{ $product->extract }}</p>
                         <h3><span class="label label-success">Precio: ${{ number_format($product->price,2) }}</span></h3>
