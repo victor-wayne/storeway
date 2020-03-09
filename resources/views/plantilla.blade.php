@@ -239,7 +239,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 mix der">
                     <div class="item">
                         <a href="{{ asset('images/portfolio/derma2.png') }}" class="portfolio-popup" title="Dermatologia">
-                            <img src="{{ asset('images/bg/sabados-dermatologia-p.jpg') }}" alt="sabados-dermatologia">
+                            <img src="{{ asset('images/portfolio/dermatologia.jpg') }}" alt="sabados-dermatologia">
 
                         </a>
                     </div>
@@ -248,7 +248,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 mix gen">
                     <div class="item">
                         <a href="{{ asset('images/portfolio/gene2.png') }}" class="portfolio-popup" title="Genericos">
-                            <img src="{{ asset('images/portfolio/genericos.png') }}" alt="">
+                            <img src="{{ asset('images/portfolio/genericos.jpg') }}" alt="">
                         </a>
                     </div>
                 </div>
@@ -256,7 +256,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 mix nat">
                     <div class="item">
                         <a href="{{ asset('images/portfolio/natu2.png') }}" class="portfolio-popup" title="Naturista">
-                            <img src="{{ asset('images/portfolio/naturista.png') }}" alt="">
+                            <img src="{{ asset('images/portfolio/naturista.jpg') }}" alt="">
                         </a>
                     </div>
                 </div>
@@ -264,7 +264,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 mix mockups esp">
                     <div class="item">
                         <a href="{{ asset('images/portfolio/alta2.png') }}" class="portfolio-popup" title="Alta Especialidad">
-                            <img src="{{ asset('images/portfolio/especialidad.png') }}" alt="">
+                            <img src="{{ asset('images/portfolio/alta-especialidad.jpg') }}" alt="">
                         </a>
                     </div>
                 </div>
@@ -272,7 +272,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 mix mockups pat">
                     <div class="item">
                         <a href="{{ asset('images/portfolio/pate2.png') }}" class="portfolio-popup" title="Medicamento de Patente">
-                            <img src="{{ asset('images/portfolio/patente.png') }}" alt="">
+                            <img src="{{ asset('images/portfolio/patente.jpg') }}" alt="">
                         </a>
                     </div>
                 </div>
