@@ -22,10 +22,10 @@
                     <a class="nav-link" href="{{ route('cart-show') }}"><i class="fa fa-shopping-cart" style="font-size: 24px"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#"><h4>Promociones Circulo de la Salud</h4></a>
+                    <a class="nav-link" href="#"><h5>Promociones Circulo de la Salud</h5></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#"><h4>Promociones Enlace Vital</h4></a>
+                    <a class="nav-link" href="#"><h5>Promociones Enlace Vital</h5></a>
                 </li>
 
                 @include('store.partials.menu-user')

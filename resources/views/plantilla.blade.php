@@ -521,7 +521,7 @@
         <div class="row">
 
             <div class="col-md-4 text-left">
-                <p><span><a href="#about" class="smoth-scroll">Aviso de Privacidad</a></span> | <span><a href="#portfolio" class="smoth-scroll">Polìticas de Uso</a></span></p>
+                <p><span><a href="{{ asset('images/bg/Aviso-privacidad.pdf')}}" class="smoth-scroll">Aviso de Privacidad</a></span> | <span><a href="#portfolio" class="smoth-scroll">Polìticas de Uso</a></span></p>
             </div>
 
             <div class="col-md-4 text-center">

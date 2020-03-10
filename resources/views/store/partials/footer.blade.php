@@ -1,7 +1,7 @@
 <footer class="container-fluid">
     <div class="row">
         <div class="col-md-4">
-            <a href="#"><h3 style="color: #533f03"> Terminos y Condiciones</h3></a>
+            <a href="{{ asset('images/bg/Terminos-y-condiciones.pdf') }}"><h3 style="color: #533f03"> Terminos y Condiciones</h3></a>
             <a href="#"><h3 style="color: #533f03"> Terminos y Condiciones Envios Foraneos</h3></a>
 
         </div>
