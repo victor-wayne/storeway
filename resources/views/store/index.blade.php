@@ -11,8 +11,13 @@
          -->
 
     <div class="container">
-        <h1 align="center">¿Buscas algun Producto?</h1>
-        <h4 align="center">Utiliza nuestro boton categorizador para una mejor busqueda</h4>
+        <h1 align="center"><strong>Pedidos en Celaya Sin Costo!</strong></h1>
+        <h4 align="center">Para pedidos en Celaya Gto, contactanos via WhatsApp</h4>
+        <p align="center">
+            <a class="btn btn-success" href="https://api.whatsapp.com/send?phone=524611881811&text=Necesito información sobre alguno de sus productos. ¿Me pueden ayudar? ">
+                <i class="fa fa-whatsapp" style="font-size: 20px"></i> Mi Pedido</a>
+        </p>
+
         <div class="dropdown">
             <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Categorizador
                 <span class="caret"></span></button>
@@ -60,7 +65,11 @@
             </div><hr>
             <?php echo $products->render(); ?>
         </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 @stop
 
 

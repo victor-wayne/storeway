@@ -9,13 +9,13 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img src="{{ asset('img/carrito.png') }}" alt="slide1">
+            <img src="{{ asset('img/lunes-y-jueves-descuento.jpg') }}" alt="lunes-y-jueves-de-descuento">
             <div class="carousel-caption">
                 Lunes y Jueves de Descuentos
             </div>
         </div>
         <div class="item">
-            <img src="{{ asset('img/carrito1.png') }}" alt="slide2">
+            <img src="{{ asset('img/sabados-de-dermatologia.jpg') }}" alt="sabados-de-dermatologia">
             <div class="carousel-caption">
                 Sabados de Dermatologia
             </div>
