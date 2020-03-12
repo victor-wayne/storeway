@@ -141,7 +141,7 @@
     <div class="row">
 
         <div class="col-md-6 col-sm-12 col-xs-12">
-            <img class="img-responsive" src="{{ asset('images/portfolio/semana-del-bebe.jpeg') }}" draggable="false" alt="semana-del-bebe">
+            <img class="img-responsive" src="{{ asset('images/portfolio/mes-de-la-mujer.jpg') }}" draggable="false" alt="mes-de-la-mujer">
         </div>
 
 
@@ -150,12 +150,12 @@
                 <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="about-me section-space-padding">
 
-                        <h2 align="center">Semana del Bebé</h2>
+                        <h2 align="center">Mes de la Mujer</h2>
 
-                        <p align="justify"> "En la semana del bebé del 11 al 17 de Febrero en  <strong>Farmacia Herrera</strong>
-                            tenemos descuentos en <strong>Cremas para Rozaduras,Pañales y Articulos para el Cuidado e Higiene del bebé.</strong>
+                        <p align="justify"> "En Marzo, mes de la Mujer en  <strong>Farmacia Herrera</strong>
+                            tenemos descuentos en <strong>vitaminas y cremas hidratantes.</strong>
                             Ven a nuestras dos sucursales y pregunta por nuestras
-                            promociones para ese ser tan especial"</p>
+                            promociones para ese ser tan especial"</p><br><br>
                     </div>
                 </div>
     </div>

@@ -19,7 +19,7 @@
                 <div class="product-block">
                     <h3>{{ $product->name }}</h3><hr>
                     <div class="product-info panel">
-                        <p> {{ $product->description }}</p>
+                        <p align="justify"> {{ $product->description }}</p>
                         <h3><span class="label label-success">Precio: ${{ number_format($product->price,2) }}</span></h3>
                         <p>
                             <a class="btn btn-warning btn-block" href="{{ route('cart-add', $product->slug) }}">
