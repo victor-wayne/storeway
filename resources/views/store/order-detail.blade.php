@@ -50,7 +50,7 @@
                     </span>
                 </h3><hr>
 
-                <p>Se le cobrara la cantidad de $250 pesos por Gastos de Envio Extras al Total</p>
+                <p>Se le cobrara la cantidad de $150 pesos por Gastos de Envio Extras al Total</p>
 
                 <p>
                     <a href="{{ route('cart-show') }}" class="btn btn-primary">

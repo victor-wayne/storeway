@@ -64,7 +64,7 @@ class PaypalController extends BaseController
         $details->setSubtotal($subtotal)
             ->setShipping(100);
 
-        $total = $subtotal + 100;
+        $total = $subtotal + 150;
 
         $amount = new Amount();
         $amount->setCurrency($currency)
