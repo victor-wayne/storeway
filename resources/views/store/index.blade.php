@@ -50,7 +50,7 @@
                         <img src="{{ asset('products/'.$product->image) }}" width="200">
                         <div class="product-info panel">
                             <p><strong>{{ $product->extract }}</strong></p>
-                            <h3><span class="label label-success">Precio: ${{ number_format($product->price,2) }}</span></h3>
+                            <h3><span class="label label-success">Precio: ${{ number_format($product->price,2) }}</span></h3><br>
                             <p>
                                 <a class="btn btn-warning" href="{{ route('cart-add', $product->slug) }}">
                                     <i class="fa fa-cart-plus"></i> Lo quiero
