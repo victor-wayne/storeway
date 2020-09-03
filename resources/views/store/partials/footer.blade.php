@@ -1,13 +1,13 @@
 <footer class="container-fluid">
     <div class="row">
         <div class="col-md-4">
-            <a href="{{ asset('images/bg/Terminos-y-condiciones.pdf') }}"><h3 style="color: #533f03"> Terminos y Condiciones</h3></a>
-            <a href="#"><h3 style="color: #533f03"> Terminos y Condiciones Envios Foraneos</h3></a>
+            <a href="{{ asset('images/bg/Terminos-y-condiciones.pdf') }}"><h3 style="color: #DCDCDC"> Terminos y Condiciones</h3></a>
+            <a href="#"><h3 style="color: #DCDCDC"> Terminos y Condiciones Envios Foraneos</h3></a>
 
         </div>
 
         <div class="col-md-4">
-            <h3 style="color: #533f03"> ¡Aviso Importante!</h3>
+            <h3 style="color: #1D4EA2"> ¡Aviso Importante!</h3>
             <div class="author-info">
                 <img src="{{ asset('img/herrera.png') }}" alt="" class="avatar">
                 <p style="color: #e9ecef" align="justify">
@@ -18,7 +18,7 @@
         </div>
 
         <div class="col-md-4">
-            <h3 style="color: #533f03">¿Requiere Factura?</h3>
+            <h3 style="color: #3ABE23">¿Requiere Factura?</h3>
                 <p style="color: #e9ecef" align="justify">
                     Si requiere factura de su orden de compra, mandenos sus datos
                     de facturacion a la siguiente direccion:
