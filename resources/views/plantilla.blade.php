@@ -141,7 +141,7 @@
     <div class="row">
 
         <div class="col-md-6 col-sm-12 col-xs-12">
-            <img class="img-responsive" src="{{ asset('public/images/portfolio/dia-del-padre.jpeg') }}" draggable="false" alt="mes-del-padre">
+            <img class="img-responsive" src="{{ asset('/images/portfolio/dia-del-padre.jpeg') }}" draggable="false" alt="mes-del-padre">
         </div>
 
 
