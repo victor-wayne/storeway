@@ -140,7 +140,7 @@
         <div class="col-md-6 col-sm-12 col-xs-12">
 
             <h2 align="center"><strong>Enlace Vital</strong></h2>
-            <img class="img-responsive" src="{{ asset('images/bg/enlace-Vital2.png') }}" draggable="false" alt="enlace-vital-farmacia-herrera">
+            <img class="img-responsive" src="{{ asset('images/bg/enlace-vital2.png') }}" draggable="false" alt="enlace-vital-farmacia-herrera">
 
 
         </div>
@@ -160,42 +160,35 @@
         </div>
     </div>
 
-
-    <div class="row">
+     <div class="row">
         <div class="col-md-6 col-sm-12 col-xs-12">
 
-            <h2 align="center"><strong>E3MULTISPORT</strong></h2>
-            <img class="img-responsive" src="{{ asset('images/bg/e3multisport.jpg') }}" draggable="false" alt="e3multispot-farmacia-herrera">
-
-
+            <h2 align="center"><strong>Enlace Vital</strong></h2>
+            <img class="img-responsive" src="{{ asset('images/bg/osias.jpeg') }}" draggable="false" alt="red-sias">
         </div>
 
         <div class="col-md-6">
             <div class="about-me section-space-padding">
-                <h2 align="center">E·MULTISPORT</h2>
+                <h2 align="center">SIAS</h2>
                 <p align="justify">
-                    Equipo especializado en:<br>
+                    RED SIAS es un sistema innovador, eficaz y único para la atención de la salud.<br>
+                </p>
+                <p align="justify">
+                    A través de nuestras membresías, te ofrecemos una amplia gama de servicios orientados
+                    al manejo de la salud, atendiendo de manera integral a toda tu familia. <br> <br>
+                    Además añadimos protección médica a aquellos miembros especiales de la familia: Tus mascotas.<br>
 
-                    Triatlón<br>
-                    Ciclismo<br>
-                    Carrera<br>
 
 
-                    Todos los niveles<br>
-                    Coach: @edermejia<br>
 
-                    <a href="https://www.facebook.com/pg/E3MULTISPORTTRI/about/?ref=page_internal" ><i class="fa fa-facebook-square" style="font-size:36px"></i></a>
+
+                    <span class="fa fa-laptop" style="font-size:20px"></span><strong> </strong>
+                    <a href="http://redsias.com/">http://redsias.com/</a>
+                </p>
+
             </div>
         </div>
     </div>
-
-
-
-
-
-
-
-
 
 </section>
 

@@ -50,7 +50,7 @@
                     </span>
                 </h3><hr>
 
-                <p>Se le cobrara la cantidad de $150 pesos por Gastos de Envio Extras al Total</p>
+                <p>Se le cobrara la cantidad de $150 pesos por Gastos de Envio Extras al Total, recuerde que en Celaya, Gto, el envio es gratis y su pedido es por WhatsApp</p>
 
                 <p>
                     <a href="{{ route('cart-show') }}" class="btn btn-primary">

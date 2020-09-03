@@ -6,6 +6,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Inconsolata|Kanit" rel="stylesheet">
     <link rel="stylesheet" href="{{asset('css/main.css')}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ asset('images/favicon/favicon.ico') }}">
     <link rel="apple-touch-icon" sizes="144x144" type="image/x-icon" href="{{ asset('images/favicon/apple-touch-icon.png') }}">

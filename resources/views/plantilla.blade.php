@@ -141,7 +141,7 @@
     <div class="row">
 
         <div class="col-md-6 col-sm-12 col-xs-12">
-            <img class="img-responsive" src="{{ asset('images/portfolio/mes-de-la-mujer.jpg') }}" draggable="false" alt="mes-de-la-mujer">
+            <img class="img-responsive" src="{{ asset('public/images/portfolio/dia-del-padre.jpeg') }}" draggable="false" alt="mes-del-padre">
         </div>
 
 
@@ -150,12 +150,16 @@
                 <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="about-me section-space-padding">
 
-                        <h2 align="center">Mes de la Mujer</h2>
+                        <h2 align="center">Mes del Padre</h2>
 
-                        <p align="justify"> "En Marzo, mes de la Mujer en  <strong>Farmacia Herrera</strong>
-                            tenemos descuentos en <strong>vitaminas y cremas hidratantes.</strong>
+                        <p align="justify"> "En este mes del padre en  <strong>Farmacia Herrera</strong>
+                            queremos consentir a ese ser tan especial en nuestras vidas, para ello tenemos los mejores descuentos en
+                            medicamentos de patente, ven y visitanos."<br><br>
+
                             Ven a nuestras dos sucursales y pregunta por nuestras
-                            promociones para ese ser tan especial"</p><br><br>
+                            promociones. <br><br>
+                            <strong>Farmacia Herrera</strong>, tradicion que da confianza.
+                        </p><br><br>
                     </div>
                 </div>
     </div>
@@ -238,7 +242,7 @@
 
                 <div class="col-md-4 col-sm-6 col-xs-12 mix der">
                     <div class="item">
-                        <a href="{{ asset('images/portfolio/derma2.png') }}" class="portfolio-popup" title="Dermatologia">
+                        <a href="{{ asset('images/portfolio/marcas-dermatologicas.jpeg') }}" class="portfolio-popup" title="Dermatologia">
                             <img src="{{ asset('images/portfolio/dermatologia.jpg') }}" alt="sabados-dermatologia">
 
                         </a>
@@ -247,32 +251,32 @@
 
                 <div class="col-md-4 col-sm-6 col-xs-12 mix gen">
                     <div class="item">
-                        <a href="{{ asset('images/portfolio/gene2.png') }}" class="portfolio-popup" title="Genericos">
-                            <img src="{{ asset('images/portfolio/genericos.jpg') }}" alt="">
+                        <a href="{{ asset('images/portfolio/genericos.jpeg') }}" class="portfolio-popup" title="Genericos">
+                            <img src="{{ asset('images/portfolio/genericos.jpg') }}" alt="medicamentos-genericos-farmacia-herrera">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6 col-xs-12 mix nat">
                     <div class="item">
-                        <a href="{{ asset('images/portfolio/natu2.png') }}" class="portfolio-popup" title="Naturista">
-                            <img src="{{ asset('images/portfolio/naturista.jpg') }}" alt="">
+                        <a href="{{ asset('images/portfolio/articulos-naturistas.jpeg') }}" class="portfolio-popup" title="Naturista">
+                            <img src="{{ asset('images/portfolio/naturista.jpg') }}" alt="articulos-naturistas-farmacia-herrera">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6 col-xs-12 mix mockups esp">
                     <div class="item">
-                        <a href="{{ asset('images/portfolio/alta2.png') }}" class="portfolio-popup" title="Alta Especialidad">
-                            <img src="{{ asset('images/portfolio/alta-especialidad.jpg') }}" alt="">
+                        <a href="{{ asset('images/portfolio/alta-especialidad.jpeg') }}" class="portfolio-popup" title="Alta Especialidad">
+                            <img src="{{ asset('images/portfolio/alta-especialidad.jpg') }}" alt="medicamentos-alta-especialidad-farmacia-herrera">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-6 col-xs-12 mix mockups pat">
                     <div class="item">
-                        <a href="{{ asset('images/portfolio/pate2.png') }}" class="portfolio-popup" title="Medicamento de Patente">
-                            <img src="{{ asset('images/portfolio/patente.jpg') }}" alt="">
+                        <a href="{{ asset('images/portfolio/lunes-y-jueves.jpeg') }}" class="portfolio-popup" title="Medicamento de Patente">
+                            <img src="{{ asset('images/portfolio/patente.jpg') }}" alt="lunes-y-jueves-de-descuento-farmacia-herrera">
                         </a>
                     </div>
                 </div>

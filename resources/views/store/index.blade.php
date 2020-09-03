@@ -14,7 +14,7 @@
         <h1 align="center"><strong>Pedidos en Celaya Sin Costo!</strong></h1>
         <h4 align="center">Para pedidos en Celaya Gto, contactanos via WhatsApp</h4>
         <p align="center">
-            <a class="btn btn-success" href="https://api.whatsapp.com/send?phone=524611881811&text=Necesito información sobre alguno de sus productos. ¿Me pueden ayudar? ">
+            <a class="btn btn-success" href="https://bit.ly/3b0e72n">
                 <i class="fa fa-whatsapp" style="font-size: 20px"></i> Mi Pedido</a>
         </p>
 
@@ -23,16 +23,16 @@
                 <span class="caret"></span></button>
             <ul class="dropdown-menu">
                 <li class="dropdown-header">Dermatologia</li>
-                <li><a href="{{ route('productos-avene') }}">Avene</a></li>
-                <li><a href="{{ route('productos-laroche') }}">La Roche-Posay</a></li>
-                <li><a href="{{ route('productos-vichy') }}">Vichy</a></li>
-                <li><a href="{{ route('productos-isdin') }}">Isdin</a></li>
+                <li><a href="#">Avene</a></li>
+                <li><a href="#">La Roche-Posay</a></li>
+                <li><a href="#">Vichy</a></li>
+                <li><a href="#">Isdin</a></li>
                 <li class="dropdown-header">Patente</li>
-                <li><a href="{{ route('productos-patente') }}">Todos</a></li>
+                <li><a href="#">Todos</a></li>
                 <li class="dropdown-header">Generico</li>
-                <li><a href="{{ route('productos-genericos') }}">Todos</a></li>
+                <li><a href="#">Todos</a></li>
                 <li class="dropdown-header">OTC</li>
-                <li><a href="{{ route('productos-otc') }}">Todos</a></li>
+                <li><a href="#">Todos</a></li>
             </ul>
         </div>
     </div>
@@ -63,7 +63,10 @@
                 @endforeach
 
             </div><hr>
-            <?php echo $products->render(); ?>
+        </div>
+
+        <div class="container text-center">
+           <?php echo $products->render(); ?>
         </div>
 <br>
 <br>

@@ -4,14 +4,22 @@
         <li data-target="#slider" data-slide-to="0" class="active"></li>
         <li data-target="#slider" data-slide-to="1"></li>
         <li data-target="#slider" data-slide-to="2"></li>
+        <li data-target="#slider" data-slide-to="3"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
-        <div class="item active">
-            <img src="{{ asset('img/lunes-y-jueves-descuento.jpg') }}" alt="lunes-y-jueves-de-descuento">
+
+       <div class="item active">
+            <img src="{{ asset('img/promociones-septiembre.jpeg') }}" alt="farmacia-herrera">
             <div class="carousel-caption">
-                Lunes y Jueves de Descuentos
+                Promóciones Septiembre
+            </div>
+        </div>
+        <div class="item">
+            <img src="{{ asset('img/semana-de-dermtologia-farmacia-herrera.jpg') }}" alt="semanas-de-dermatologia-farmacia-herrera">
+            <div class="carousel-caption">
+                Semanas de Dermatologia
             </div>
         </div>
         <div class="item">
@@ -21,9 +29,9 @@
             </div>
         </div>
         <div class="item">
-            <img src="{{ asset('img/carrito2.png') }}" alt="slide3">
+            <img  src="{{ asset('img/lunes-y-jueves-descuento.jpg') }}" alt="lunes-y-jueves-de-descuento">
             <div class="carousel-caption">
-                Farmacia Herrera
+                Lunes y Jueves de Descuento
             </div>
         </div>
     </div>

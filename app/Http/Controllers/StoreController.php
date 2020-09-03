@@ -14,7 +14,7 @@ class StoreController extends Controller
     public function index(){
 
         // cargo los productos de la BD yse los pasa a la variable products
-        $products = Product::orderBy('id', 'asc')->paginate(20);
+        $products = Product::orderBy('id', 'desc')->paginate(16);
         //debuguea para versi nos esta mandando los productos
         //dd($products);
 

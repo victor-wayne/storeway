@@ -90,13 +90,20 @@
                 <h3><span class="label label-warning">No Hay Productos en el Carrito :(</span> </h3>
             @endif
             <hr>
+
+            <p>! Recuerda que si eres de Celaya Gto, puedes pedirlo directamente en WhatsApp ¡ <br><br>
+                    <a class="btn btn-success" href="https://bit.ly/3b0e72n">
+                        <i class="fa fa-whatsapp" style="font-size: 20px"></i> Ordena Aqui</a>
+                </p><br>
             <p>
                 <a href="{{ route('store') }}" class="btn btn-primary">
                     <i class="fa fa-chevron-circle-left"></i> Seguir Comprando
                 </a>
+            </p>
+            <p>
 
                 <a href="{{ route('order-detail') }}" class="btn btn-primary">
-                    Continuar <i class="fa fa-chevron-circle-right"></i>
+                    Pagar con Paypal <i class="fa fa-chevron-circle-right"></i>
                 </a>
             </p>
         </div>

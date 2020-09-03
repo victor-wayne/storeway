@@ -61,7 +61,7 @@
             <?php echo $orders->render(); ?>
 
         </div>
-    </div>
+    </div><br><br><br><br><br><br><br>
 
     @include('admin.partials.modal-detalle-pedido')
 
