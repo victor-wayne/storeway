@@ -32,17 +32,8 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="{{ asset('js/pinterest_grid.js') }}"></script>
     <script src="{{ asset('js/main.js') }}"></script>
-    <script>
-        function abrir() {
-            document.getElementById("ventana").style.display="block";
-            
-        }
+    <script src="{{ asset('js/test.js') }}"></script>
 
-        function cerrar() {
-            document.getElementById("ventana").style.display="none";
-
-        }
-    </script>
 </body>
 
 </html>
