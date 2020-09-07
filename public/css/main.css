@@ -125,3 +125,27 @@ img {
 
 }
 
+.ventana {
+    background: #EDF7F7;
+    width: 30%;
+    color: black;
+    font-family: Arial;
+    font-size: 18px;
+    text-align: center;
+    padding: 33px;
+    min-height: 40%;
+    min-width: 80%;
+    border-radius: 22px;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+
+
+}
+
+#cerrar{
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+

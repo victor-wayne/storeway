@@ -9,7 +9,11 @@
                     <i class="fa fa-plus-square" style="font-size: 24px;"></i> Buscar un producto
                 </a><hr>
          -->
+    <div class="ventana" id="ventana">
+        <div id="cerrar"> <a href="javascript:cerrar()"><i class="fa fa-close" style="font-size:24px"></i></a> </div>
 
+        <img src="{{ asset('img/promo-tizo.jpg') }}">
+    </div>
     <div class="container">
         <h1 align="center"><strong>Pedidos en Celaya Sin Costo!</strong></h1>
         <h4 align="center">Para pedidos en Celaya Gto, contactanos via WhatsApp</h4>
@@ -36,6 +40,8 @@
             </ul>
         </div>
     </div>
+
+
 
 
             <hr>
