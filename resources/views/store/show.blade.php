@@ -32,7 +32,7 @@
         </div><hr>
 
 
-        <p > <a class="btn btn-primary" href="{{ route('store') }}">
+        <p > <a class="btn btn-primary" href="{{ route('tienda') }}">
                 <i class="fa fa-chevron-circle-left"></i> Regresar
             </a>
         </p>

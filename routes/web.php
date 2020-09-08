@@ -35,6 +35,11 @@ Route::get('/store', [
     'uses' => 'StoreController@index'
 ]);
 
+Route::get('/tienda', [
+    'as' =>'tienda',
+    'uses' => 'StoreController@tienda'
+]);
+
 Route::get('/all', [
     'as' =>'all-products',
     'uses' => 'AllController@index'

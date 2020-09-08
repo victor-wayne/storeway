@@ -96,7 +96,7 @@
                         <i class="fa fa-whatsapp" style="font-size: 20px"></i> Ordena Aqui</a>
                 </p><br>
             <p>
-                <a href="{{ route('store') }}" class="btn btn-primary">
+                <a href="{{ route('tienda') }}" class="btn btn-primary">
                     <i class="fa fa-chevron-circle-left"></i> Seguir Comprando
                 </a>
             </p>
