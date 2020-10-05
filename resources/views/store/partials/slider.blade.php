@@ -13,7 +13,7 @@
        <div class="item active">
             <img src="{{ asset('img/promociones-octubre.jpeg') }}" alt="farmacia-herrera">
             <div class="carousel-caption">
-                Promóciones Septiembre
+                Promóciones Octubre
             </div>
         </div>
         <div class="item">
