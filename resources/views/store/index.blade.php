@@ -20,7 +20,7 @@
         <div class="popup" id="popup">
             <a href="#" id="btn-cerrar-popup" class="btn-cerrar-popup"> <i class="fa fa-close" style="font-size: 24px;"></i></a>
             <h1>¡Súper Promoción!</h1>
-            <img src="{{ asset('img/kit-vichy.jpg') }}"><hr>
+            <img src="{{ asset('products/dermatologia/avene/kit-vichy.jpg') }}"><hr>
             <p>
                 <a class="btn btn-success" href="https://bit.ly/3b0e72n">
                     <i class="fa fa-whatsapp" style="font-size: 20px"></i> Ordena Aqui </a>
