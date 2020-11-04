@@ -11,9 +11,9 @@
     <div class="carousel-inner" role="listbox">
 
        <div class="item active">
-            <img src="{{ asset('img/promociones-octubre.jpeg') }}" alt="farmacia-herrera">
+            <img src="{{ asset('img/banner-noviembre.jpeg') }}" alt="farmacia-herrera">
             <div class="carousel-caption">
-                Promóciones Octubre
+                Promóciones Noviembre
             </div>
         </div>
         <div class="item">
