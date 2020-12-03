@@ -11,7 +11,7 @@
     <div class="carousel-inner" role="listbox">
 
        <div class="item active">
-            <img src="{{ asset('img/banner-noviembre.jpeg') }}" alt="farmacia-herrera">
+            <img src="{{ asset('img/banner-diciembre.jpeg') }}" alt="farmacia-herrera">
             <div class="carousel-caption">
                 Promóciones Noviembre
             </div>
