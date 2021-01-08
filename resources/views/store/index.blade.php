@@ -15,7 +15,7 @@
         <img src="{{ asset('img/promo-tizo.jpg') }}">
     </div>
 
-    -->
+
     <div class="overlay active" id="overlay">
         <div class="popup" id="popup">
             <a href="#" id="btn-cerrar-popup" class="btn-cerrar-popup"> <i class="fa fa-close" style="font-size: 24px;"></i></a>
@@ -28,6 +28,8 @@
         </div>
 
     </div>
+
+      -->
 
 
     <div class="container">
