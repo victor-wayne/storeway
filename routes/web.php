@@ -30,10 +30,10 @@ Route::get('/', [
     'uses' => 'PrincipalController@index'
 ]);
 
-Route::get('/store', [
-    'as' =>'store',
-    'uses' => 'StoreController@index'
-]);
+//Route::get('/store', [
+  //  'as' =>'store',
+    //'uses' => 'StoreController@index'
+//]);
 
 Route::get('/tienda', [
     'as' =>'tienda',
