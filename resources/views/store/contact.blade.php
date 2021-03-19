@@ -34,7 +34,7 @@
                                     </li>
                                     <li><a class="smoth-scroll" href="{{ route('apoyodeporte') }}">APOYO AL DEPORTE</a>
                                     </li>
-                                    <li><a class="smoth-scroll" href="{{ route('store') }}">TIENDA</a>
+                                    <li><a class="smoth-scroll" href="#">TIENDA</a>
                                     </li>
                                     <li><a class="smoth-scroll" href="{{ route('tips') }}">TIPS</a>
                                     </li>
@@ -63,7 +63,7 @@
                                 <h2><span class="typing"></span></h2>
 
                                 <div class="margin-top-60">
-                                    <a class="button button-style button-style-icon fa fa-long-arrow-right smoth-scroll" href="{{ route('store') }}">Tienda</a>
+                                    <a class="button button-style button-style-icon fa fa-long-arrow-right smoth-scroll" href="#">Tienda</a>
                                 </div>
 
                             </div>
